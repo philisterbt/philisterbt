@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Batuhan 
 
-<!--
-**philisterbt/philisterbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Python, ML & Backend Development
 
-Here are some ideas to get you started:
+I enjoy working with open-source projects and data. Currently focused on Android development, backend development with FastAPI, and AI development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently open to opportunities.
+
+🔭 Interests
+📱 Android Development — Java / Kotlin
+⚡ Backend Development — FastAPI
+🤖 AI Development
+
+
+🏆 Awards
+🥇 Mobven Young AI Hackathon — 1st Place
+🎖️ Agora Voice AI Hackathon — Jury Special Award
+✍️ Writing
+Image Quality Assessment
+
+📫 Reach me
+LinkedIn: Batuhan Tombaş
+Email: softdevbatu@gmail.com
